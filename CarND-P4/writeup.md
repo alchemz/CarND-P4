@@ -30,7 +30,7 @@ The goals / steps of this project are the following:
 [image12]: ./output_images/sobel.png "RGB Channel"
 [image13]: ./output_images/example_r.png "Example Output"
 [image14]: ./output_images/failed.png "Example Output"
-[image15]: ./output_images/success.png "Success Output"
+[image15]: ./output_images/updated.png "Success Output"
 ### Camera Calibration
 
 #### 1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
