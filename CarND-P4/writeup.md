@@ -138,10 +138,9 @@ Here's a [link to my challenge video result]:https://www.youtube.com/watch?v=7y_
 Overall, the pipeline design has done comparatively robust job of detecting. And I would like to talk about some problems I have met. For example, here is a example frame captured from the video result:
 ![alt text][image14]
 
-When there is a bigging turning point when driving, the result tracked is not very good. 
+When there is a bigging turning point when driving, or things like shadows, light conditions would also affect the tracking, the result tracked is not very good. 
 
-For the first submission, I used..
 
-For the this submission, I used ...
+For the this submission, I discovered the B channel of the LAB colorspace, which isolates the yellow lines very well.
 Here is the same frame captured use, which has a better tracking result.
-![alt text][image15]
+![alt text][image15]	
