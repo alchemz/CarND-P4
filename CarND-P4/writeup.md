@@ -126,9 +126,9 @@ Here is an example of my result on a test image:
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result]:https://www.youtube.com/watch?v=1GAZnkWhImk
+Here's a [link to my video result](https://www.youtube.com/watch?v=1GAZnkWhImk)
 
-Here's a [link to my challenge video result]:https://www.youtube.com/watch?v=7y_rS15v4ck
+Here's a [link to my challenge video result](https://www.youtube.com/watch?v=7y_rS15v4ck)
 
 ---
 
